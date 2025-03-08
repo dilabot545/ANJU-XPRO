@@ -43,5 +43,5 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~KYsH0Zaa#1GpArHn_0xahWOTh6hffrBUh6nC7s5vdDrE3UBnUuZo",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "*⦿ ᗰIᑌՏIC ᑕᕼᗩᑎᗴᒪ ᒪIᑎK⇨*https://whatsapp.com/channel/0029Vb3uqklAInPchBUjck3l *⦿ ᗪK ᗰᐯ ᘜᖇOᑌᑭᗴ ᒪIᑎK⇨* https://chat.whatsapp.com/Lp91cySvXueFChmygbmdCF *⦿ ᗪK ᑕᗩᖇTOOᑎ ᘜᖇOᑌᑭᗴ ᒪIᑎK⇨* https://chat.whatsapp.com/CurZjvmwN735el7Wdomqsl *⦿ ᗷOT ᘜᖇOᑌᑭᗴ ᒪIᑎK ⇨* https://chat.whatsapp.com/ETnlbJGBTd13TvGhSUIFSq",
+FOOTER: process.env.FOOTER || "*⦿ ᗰIᑌՏIC ᑕᕼᗩᑎᗴᒪ ᒪIᑎK⇨*https://whatsapp.com/channel/0029Vb3uqklAInPchBUjck3l                                     *⦿ ᗪK ᗰᐯ ᘜᖇOᑌᑭᗴ ᒪIᑎK⇨*   https://chat.whatsapp.com/Lp91cySvXueFChmygbmdCF                        *⦿ ᗪK ᑕᗩᖇTOOᑎ ᘜᖇOᑌᑭᗴ ᒪIᑎK⇨*   https://chat.whatsapp.com/CurZjvmwN735el7Wdomqsl                            *⦿ ᗷOT ᘜᖇOᑌᑭᗴ ᒪIᑎK ⇨*    https://chat.whatsapp.com/ETnlbJGBTd13TvGhSUIFSq",
 };
