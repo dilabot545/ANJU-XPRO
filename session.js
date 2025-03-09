@@ -40,8 +40,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~KYsH0Zaa#1GpArHn_0xahWOTh6hffrBUh6nC7s5vdDrE3UBnUuZo",
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~iV8ABA5b#xSjdP-T8TbB-G1smRpnFTNO64y6Lk4sUtRtEEaj85Iw",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
-PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "*⦿ ᗰIᑌՏIC ᑕᕼᗩᑎᗴᒪ ᒪIᑎK⇨* https://whatsapp.com/channel/0029Vb3uqklAInPchBUjck3l 🔥✨️📥✅❌🥰🤫✔ *⦿ ᗪK ᗰᐯ ᘜᖇOᑌᑭᗴ ᒪIᑎK⇨*   https://chat.whatsapp.com/Lp91cySvXueFChmygbmdCF  🔥✨️📥✅❌🥰🤫✔ *⦿ ᗪK ᑕᗩᖇTOOᑎ ᘜᖇOᑌᑭᗴ ᒪIᑎK⇨*   https://chat.whatsapp.com/CurZjvmwN735el7Wdomqsl  🔥✨️📥✅❌🥰🤫✔ *⦿ ᗷOT ᘜᖇOᑌᑭᗴ ᒪIᑎK ⇨* https://chat.whatsapp.com/ETnlbJGBTd13TvGhSUIFSq",
+PORT: process.env.PORT || "8000", 
+FOOTER: process.env.FOOTER || "> 𝐷𝑂𝑊𝑁𝐿𝑂𝐴𝐷 𝑊𝐼𝑇𝐻𝐼𝑁𝐺 14 𝐷𝐴𝑌𝑆.📥                            > *`✨️𝘿𝙆 𝙈𝙊𝙑𝙄𝙀𝙎✨️`*                                  *❖◉◎__[D̲̅][I̲̅][L̲̅][A̲̅]__◎◉❖*",
 };
