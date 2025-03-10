@@ -40,7 +40,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~eB80lQrS#PGUSWXW6_FuS15Z-d2dIbMW-53lIIdpxuPmcmHU2GmY",
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~DFljFQJK#RrGXUyfGq9ZnzoFXy4ItXOArj23R9l6nNqIeFFYrLMQ",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000", 
 FOOTER: process.env.FOOTER || "> 📥 ᵈᵒʷⁿˡᵒᵃᵈ ʷⁱᵗʰⁱⁿᵍ 14 ᵈᵃʸˢ.❗                                                               *`✨️𝘿𝙆 𝙈𝙊𝙑𝙄𝙀𝙎✨️`*                                                                                                                                                    *❖◉◎__[D̲̅][I̲̅][L̲̅][A̲̅]__◎◉❖*",
